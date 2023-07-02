@@ -8,7 +8,7 @@ const AboutUsHeader = () => {
             <div className="text-center pt-24 pb-10">
                 <div className="container w-container">
                     <div className="text-white uppercase text-base font-semibold tracking-widest leading-tight">Short Story about us</div>
-                    <h1 className="banner-area-title">The big story behind, our <br/>beautyness center</h1>
+                    <h1 className="mt-0 pt-1 tracking-wide leading-tight font-bold text-white text-5xl">The big story behind, our <br/>beautyness center</h1>
                 </div>
             </div>
         </div>
