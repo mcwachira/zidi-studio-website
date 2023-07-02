@@ -1,16 +1,16 @@
 import React from 'react'
-import AboutUsHeader from "../../components/about-us/AboutUsHeader";
 import TopServices from "@/components/about-us/TopServices";
 import CallToAction from "@/components/about-us/CallToAction";
 import Founder from "@/components/about-us/Founder";
 import OurTeam from "@/components/about-us/OurTeam";
 import Testimonial from "@/components/Testimonial";
+import Header from "@/components/Header";
 
 const Page = () => {
     return (
 
         <>
-        <AboutUsHeader/>
+        <Header title='     Short Story about us' subtitle='The big story behind, our beautyness center'/>
             <TopServices/>
 <CallToAction/>
             <Founder/>

@@ -1,13 +1,14 @@
 import React from 'react'
-import ContactUsHeader from "@/components/contact-us/ContactUsHeader";
 import ContactForm from "@/components/contact-us/ContactForm";
 import CallToAction from "@/components/contact-us/CallToAction";
+import Header from "@/components/Header";
 
 const Page = () => {
     return (
        <>
 
-       <ContactUsHeader/>
+           <Header title='     Short Story about us' subtitle='The big story behind, our beautyness center'/>
+
            <CallToAction/>
            <ContactForm/>
 
