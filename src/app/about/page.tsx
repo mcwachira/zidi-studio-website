@@ -12,7 +12,7 @@ const Page = () => {
     return (
 
         <>
-        <Header title='     Short Story about us' subtitle='The big story behind, our beautyness center'/>
+        <Header title='     Short Story about us' subtitle='The big story behind, our massage center'/>
             <TopServices/>
 <CallToAction/>
             <Founder/>
