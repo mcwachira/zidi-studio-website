@@ -69,13 +69,13 @@ const OurServices = () => {
                             loading="lazy" alt="Service Pattern" className="hidden"/>
                  </div>
              </div>
-             <div className='flex flex-col'>
+             <div className='mr-auto ml-auto flex flex-col'>
 
                  <div className="relative ">
                      <Image
                          src="https://uploads-ssl.webflow.com/6135e5f06048e4e83fb2c8ab/618f54b244ab47992990ef3c_service-image-one.jpg"
                          loading="lazy" alt="Care Girl Image"
-                         className="relative z-10 shadow-lg "
+                         className="relative z-10 shadow-lg object-cover"
                          width="516" height="517"/>
 
                  </div>
@@ -96,7 +96,7 @@ const OurServices = () => {
                          <Image
                              src="https://uploads-ssl.webflow.com/6135e5f06048e4e83fb2c8ab/618f54b2f945d433a45352b9_service-image-two.jpg"
                              loading="lazy" alt="Care Girl Image"
-                             className="relative z-10 shadow-lg "
+                             className="relative z-10 shadow-lg  object-cover"
                              width="516" height="517"/>
 
                      </div>

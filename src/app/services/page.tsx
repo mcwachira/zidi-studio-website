@@ -6,7 +6,7 @@ import OurServices from "@/components/services/OurServices";
 const Page = () => {
     return (
         <>
-            <Header title='     Short Story about us' subtitle='The big story behind, our beautyness center'/>
+            <Header title='Taking Care of Your Needs' subtitle='Our Quality Services'/>
 
 <OurServices/>
 
