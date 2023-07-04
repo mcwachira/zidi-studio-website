@@ -19,7 +19,7 @@ const OurServices = () => {
 
                 {/*<div className='ml-auto mr-auto max-w-max pr-5 pl-5'>*/}
 
-                            <div className="pb-20 w-screen grid  md:grid-cols-1 lg:grid-cols-2 gap-3 lg:gap-3">
+                            <div className="pb-10 w-screen grid  md:grid-cols-1 lg:grid-cols-2 gap-3 lg:gap-3">
 
                                 <div className='mt-20 ml-auto mr-auto w-1/2'>
                                     <div className='flex flex-col'>
@@ -62,19 +62,19 @@ const OurServices = () => {
 
 
 
-                                    <a href="/services-single"  className="mt-20 mb-2 bg-gray-600 text-white texct-xs font-extrabold text-center uppercase px-8 py-4 border-2 border-gray-600 ease-linear duration-200 trackng-widest hover:bg-transparent hover:text-gray-900">GET AN APPOINTMENT</a>
+                                    <a href="/services-single"  className="mt-20 mb-8 bg-gray-600 text-white texct-xs font-extrabold text-center uppercase px-8 py-4 border-2 border-gray-600 ease-linear duration-200 trackng-widest hover:bg-transparent hover:text-gray-900">GET AN APPOINTMENT</a>
                                     <Image src="https://uploads-ssl.webflow.com/6135e5f06048e4e83fb2c8ab/618f54f0f6c6e0cdc8748bf1_service-box.jpg"
                                            width="516" height="517"
                                            loading="lazy" alt="Service Pattern" className="hidden"/>
                                 </div>
                                 </div>
-                                <div className='flex flex-col'>
+                                <div className='flex flex-col mr-auto ml-auto'>
 
                                     <div className="relative mr-0">
                                         <Image
                                             src="https://uploads-ssl.webflow.com/6135e5f06048e4e83fb2c8ab/618f54b244ab47992990ef3c_service-image-one.jpg"
                                             loading="lazy" alt="Care Girl Image"
-                                            className="relative z-10 shadow-lg "
+                                            className="relative z-10 shadow-lg object-cover "
                                             width="516" height="517"/>
 
                                     </div>
@@ -88,25 +88,27 @@ const OurServices = () => {
 
 
             </div>
+
+
             <div className="pb-20 w-screen grid  md:grid-cols-1 lg:grid-cols-2 gap-3 lg:gap-3">
 
-                <div className='mt-20 ml-auto mr-auto w-1/2'>
-                <div className='flex flex-col'>
 
-                    <div className="relative ml-0">
+                <div className=' mr-auto ml-auto flex flex-col'>
+
+                    <div className="relative ">
                         <Image
                             src="https://uploads-ssl.webflow.com/6135e5f06048e4e83fb2c8ab/618f54b2f945d433a45352b9_service-image-two.jpg"
                             loading="lazy" alt="Care Girl Image"
-                            className="relative z-10 shadow-lg "
+                            className="relative z-10 shadow-lg object-cover"
                             width="516" height="517"/>
 
                     </div>
 
 
 
-</div>
-
                 </div>
+
+
 
                 <div className='mt-20 ml-auto mr-auto w-1/2'>
                     <div className='flex flex-col'>
@@ -141,14 +143,15 @@ const OurServices = () => {
 
 
 
-                    <a href="/services-single"  className="mt-20 mb-2 bg-gray-600 text-white texct-xs font-extrabold text-center uppercase px-8 py-4 border-2 border-gray-600 ease-linear duration-200 trackng-widest hover:bg-transparent hover:text-gray-900">GET AN APPOINTMENT</a>
-                    <Image src="https://uploads-ssl.webflow.com/6135e5f06048e4e83fb2c8ab/618f54f0f6c6e0cdc8748bf1_service-box.jpg"
-                           width="516" height="517"
-                           loading="lazy" alt="Service Pattern"    className="hidden"
-                       />
+                        <a href="/services-single"  className="mt-20 mb-2 bg-gray-600 text-white texct-xs font-extrabold text-center uppercase px-8 py-4 border-2 border-gray-600 ease-linear duration-200 trackng-widest hover:bg-transparent hover:text-gray-900">GET AN APPOINTMENT</a>
+                        <Image src="https://uploads-ssl.webflow.com/6135e5f06048e4e83fb2c8ab/618f54f0f6c6e0cdc8748bf1_service-box.jpg"
+                               width="516" height="517"
+                               loading="lazy" alt="Service Pattern"    className="hidden"
+                        />
 
-            </div>
+                    </div>
                 </div>
+
             </div>
 {/*</div>*/}
 

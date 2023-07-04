@@ -7,9 +7,9 @@ import Image from 'next/image'
 const Hero = () => {
     return (
         <>
-            <Container className="flex flex-wrap">
+            <Container className="flex flex-wrap ">
 
-                <div className="flex items-center w-full lg:w-1/2">
+                <div className="flex items-center  w-full lg:w-1/2">
                     <div className="max-w-2xl mb-8">
                         <h1 className="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight dark:text-white">
                             Bring the Well Being and beauty naturally
@@ -19,7 +19,7 @@ const Hero = () => {
                             physical and mental wellness.
                         </p>
 
-                        <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
+                        <div className="flex flex-col  items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row mt-4 mb-2 sm:mt-4">
                             <a
                                 href="#"
                                 target="_blank"
@@ -30,7 +30,7 @@ const Hero = () => {
                         </div>
                     </div>
                 </div>
-                <div className="flex items-center justify-center w-full lg:w-1/2">
+                <div className="flex items-center justify-center w-full mt-10 sm:mt-0 lg:w-1/2">
 
                     <Image src='/images/hero.jpeg'  width="516" height="517"
                            className="object-cover rounded-lg"
@@ -46,7 +46,8 @@ const Hero = () => {
 
             </Container>
 
-        </>
+            </>
+
     )
 }
 

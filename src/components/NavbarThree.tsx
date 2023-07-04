@@ -4,21 +4,21 @@ import ThemeChanger from "./DarkSwitch";
 import Image from "next/image"
 import { Disclosure } from "@headlessui/react";
 
-const Navbar = () => {
+const NavbarThree = () => {
 
 
   const navigation = [
     "Home",
     "About",
     "Services",
-    "Pages",
+    "Blog",
     "Contact Us",
   ];
 
-  const subNavigation = [
-    "Articles",
-    "Single Service",
-  ]
+  // const subNavigation = [
+  //   "Articles",
+  //   "Single Service",
+  // ]
   return (
     <div className="w-full">
       <nav className="container relative flex flex-wrap items-center justify-between p-8 mx-auto lg:justify-between xl:px-0">
@@ -107,4 +107,4 @@ const Navbar = () => {
   );
 }
 
-export default Navbar;
+export default NavbarThree;

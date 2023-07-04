@@ -4,9 +4,9 @@ import Image from "next/image";
 const WhyUs = () => {
     return (
         <>
-            <div className=" pt-32 pb-32 bg-gray-200">
+            <div className=" pt-24 pb-16 bg-gray-200 w-full">
 <div className='ml-auto mr-auto max-w-max pr-5 pl-5'>
-                <div className='w-screen grid  md:grid-cols-1 lg:grid-cols-2 gap-3 lg:gap-3 '>
+                <div className='w-full grid aut-cols-max auto-rows-max  md:grid-cols-1 lg:grid-cols-2 gap-4 lg:gap-4 my-40 '>
 
                     <div className="pr-0">
                         <div className='text-left'>
@@ -24,7 +24,7 @@ const WhyUs = () => {
                         </div>
 
                         <div className='pt-8'>
-                            <div className='flex items-center'>
+                            <div className='flex flex-wrap items-center gap-4'>
                                 <div
                                     className="flex mr-2 ml-2 px-12 py-5 flex-col items-center bg-white border-2 border-gray-900 first:ml-0 first:bg-white">
                                     <Image
@@ -60,15 +60,15 @@ const WhyUs = () => {
 
 
 
-                        <div className="relative">
+                        <div className="mt-8 sm:mt-0">
                             <Image
                                 src="https://uploads-ssl.webflow.com/6135e5f06048e4e83fb2c8ab/618f48751328985dc398bddc_about-girl-image.jpg"
-                                loading="lazy" alt="Care Girl Image" className="relative z-10 shadow-lg "
+                                loading="lazy" alt="Care Girl Image" className=" shadow-lg object-cover "
                                 width="516" height="517"/>
-                            <Image
-                                src="https://uploads-ssl.webflow.com/6135e5f06048e4e83fb2c8ab/618f487689cbccaa098d6e96_about-pattern-bg.jpg"
-                                loading="lazy" alt="About Pattern" className="absolute left-auto bottom-auto -top-10 -right-10 hidden"
-                                width="516" height="517"/></div>
+
+
+
+                        </div>
                     </div>
 
 

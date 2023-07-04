@@ -5,6 +5,8 @@ import Founder from "@/components/about-us/Founder";
 import OurTeam from "@/components/about-us/OurTeam";
 import Testimonial from "@/components/Testimonial";
 import Header from "@/components/Header";
+import Team from "@/components/Team";
+import Gallery from "@/components/about-us/Gallery";
 
 const Page = () => {
     return (
@@ -14,7 +16,8 @@ const Page = () => {
             <TopServices/>
 <CallToAction/>
             <Founder/>
-            <OurTeam/>
+            <Team/>
+            <Gallery/>
             <Testimonial/>
 
 
