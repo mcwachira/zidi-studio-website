@@ -10,8 +10,8 @@ const CallToAction = () => {
                  aign-center justify-center  ">
                     <div className="relative mr-auto ml-auto mb-10">
                         <Image
-                            src="https://uploads-ssl.webflow.com/6135e5f06048e4e83fb2c8ab/618f70757849be2e6262c674_lifestyle-girl.jpg"
-                            loading="lazy" alt="Care Girl Image" className="relative z-10 cover  shadow-lg "
+                            src='/images/haircut.jpeg'
+                            loading="lazy" alt="Hair Cut" className="relative z-10 cover  shadow-lg "
                             width="516" height="517"/>
 
                 </div>
