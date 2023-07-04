@@ -19,10 +19,10 @@ const CallToAction = () => {
                     <div className="pr-16">
                         <div
                             className="text-center ">
-                            <div className="text-white pd-1 text-sm tracking-widest uppercase font-semibold">Take Your Care To Next</div>
-                            <h2 className="text-white mt-0 mb-4 text-4xl tracking-normal leading-snug font-bold ">Elevate Your Lifestyle <br/>by Bring Balance &amp; Well Being
+                            <div className="text-black pd-1 text-sm tracking-widest uppercase font-semibold">Take Your Care To Next</div>
+                            <h2 className="text-black mt-0 mb-4 text-4xl tracking-normal leading-snug font-bold ">Elevate Your Lifestyle <br/>by Bring Balance &amp; Well Being
                                 to your life</h2>
-                            <div className="text-white pt-1 pb-2 leading-relaxed">Designed to allow you to unwind and feel confident
+                            <div className="text-black pt-1 pb-2 leading-relaxed">Designed to allow you to unwind and feel confident
                                 that you’re in good, caring hands. Our first priority is cleanliness. We have a full-time
                                 staff whose job is to ensure that the environment at Beautyness remains pristine.<br/></div>
                         </div>
