@@ -7,7 +7,7 @@ const Page = () => {
     return (
        <>
 
-           <Header title='     Short Story about us' subtitle='The big story behind, our beautyness center'/>
+           <Header title='Get In touch With Us' subtitle='Ready to serve you 24/7'/>
 
            <CallToAction/>
            <ContactForm/>

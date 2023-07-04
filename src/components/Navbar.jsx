@@ -38,7 +38,7 @@ const MainNavbar = () => {
                 <Navbar.Link href="/blog">
                  Blog
                 </Navbar.Link>
-                <Navbar.Link href="/contacts">
+                <Navbar.Link href="/contact">
                     Contact
                 </Navbar.Link>
             </Navbar.Collapse>

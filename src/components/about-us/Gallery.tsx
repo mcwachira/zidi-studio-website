@@ -17,7 +17,7 @@ const Gallery = () => {
 
                        </h2>
 
-                       <p className="hidden max-w-screen-sm text-gray-500 md:block">We're available in social media platforms for appointment your information will be held in strict confidentiality. Prior to your appointment, shower and slip on comfortable clothing.</p>
+                       <p className="hidden max-w-screen-sm text-gray-500 md:block">We are available in social media platforms for appointment your information will be held in strict confidentiality. Prior to your appointment, shower and slip on comfortable clothing.</p>
                    </div>
 
 

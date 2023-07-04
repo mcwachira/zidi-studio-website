@@ -21,7 +21,7 @@ const CallToAction = () => {
 
                     <div className="pr-16">
                         <div
-                            className="text-left ">
+                            className="text-center ">
                             <div className="text-white pd-1 text-sm tracking-widest uppercase font-semibold">Take Your Care To Next</div>
                             <h2 className="text-white mt-0 mb-4 text-4xl tracking-normal leading-snug font-bold ">Elevate Your Lifestyle <br/>by Bring Balance &amp; Well Being
                                 to your life</h2>

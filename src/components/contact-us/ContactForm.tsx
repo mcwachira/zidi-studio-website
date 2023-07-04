@@ -6,7 +6,7 @@ const ContactForm = () => {
             <div className="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 lg:py-20">
                 <div className="mb-4">
                     <div className="mb-6 max-w-3xl text-center sm:text-center md:mx-auto md:mb-12">
-                        <p className="text-base font-semibold uppercase tracking-wide text-blue-600 dark:text-blue-200">
+                        <p className="text-base font-semibold uppercase tracking-wide text-gray-600 dark:text-blue-200">
                             Contact
                         </p>
                         <h2
@@ -145,7 +145,7 @@ const ContactForm = () => {
                                 </div>
                                 <div className="text-center">
                                     <button type="submit"
-                                            className="w-full bg-blue-800 text-white px-6 py-3 font-xl rounded-md sm:mb-0">Send
+                                            className="w-full bg-gray-600 text-white px-6 py-3 font-xl rounded-md sm:mb-0">Send
                                         Message
                                     </button>
                                 </div>
