@@ -5,18 +5,15 @@ const CallToAction = () => {
     return (
 
         <>
-            <div className="relative bg-gray-900 ">
-                <div className="relative pt-24 pd-24 grid  md:grid-cols-1 lg:grid-cols-2 grid-flow-rows gap-y-20 bg-gray-900
+            <div className="relative bg-gray-200 ">
+                <div className="relative pt-24 pd-24 grid  md:grid-cols-1 lg:grid-cols-2 grid-flow-rows gap-y-20 bg-gray-200
                  aign-center justify-center  ">
-                    <div className="relative">
+                    <div className="relative mr-auto ml-auto mb-10">
                         <Image
-                            src="https://uploads-ssl.webflow.com/6135e5f06048e4e83fb2c8ab/618f70757849be2e6262c674_lifestyle-girl.jpg"
-                            loading="lazy" alt="Care Girl Image" className="relative z-10 shadow-lg "
-                            width="516" height="517"/>
-                        <Image
-                            src="https://uploads-ssl.webflow.com/6135e5f06048e4e83fb2c8ab/618f487689cbccaa098d6e96_about-pattern-bg.jpg"
-                            loading="lazy" alt="About Pattern" className="absolute left-auto bottom-auto -top-10 -right-10 hidden"
-                            width="516" height="517"/>
+                            src="/images/employees-3.jpeg"
+                            loading="lazy" alt="Care Girl Image" className="relative z-10 shadow-lg object-cover "
+                            width="716" height="517"/>
+
                     </div>
 
                     <div className="pr-16">
