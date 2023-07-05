@@ -21,7 +21,7 @@ const BookAppointment = () => {
 
 
 
-            <div className="mx-auto w-full  bg-white">
+            <div className="mx-auto w-3/4  bg-white">
                 <form>
                     <div className="mb-5">
                         <label htmlFor="name" className="mb-3 block text-base font-medium text-[#07074D]">
