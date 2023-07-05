@@ -23,7 +23,7 @@ const OurTeam = () => {
                                          src="https://loremflickr.com/320/320/girl" alt='girl'/></a>
 
                         <a href="#" className="hover:text-indigo-500 text-gray-900 font-semibold">john doe</a>
-                        <p className="text-gray-500 uppercase text-sm">Web Developer</p>
+                        <p className="text-gray-500 uppercase text-sm">Hair Stylist</p>
 
                         <div className="my-4 flex justify-center items-center">
                             <a href="#">
@@ -93,7 +93,7 @@ const OurTeam = () => {
                                          src="https://loremflickr.com/320/320/girl" alt='girl'/></a>
 
                         <a href="#" className="hover:text-indigo-500 text-gray-900 font-semibold">john doe</a>
-                        <p className="text-gray-500 uppercase text-sm">Web Developer</p>
+                        <p className="text-gray-500 uppercase text-sm">Hair Stylist</p>
 
                         <div className="my-4 flex justify-center items-center">
                             <a href="#">
@@ -163,7 +163,7 @@ const OurTeam = () => {
                                          src="https://loremflickr.com/320/320/girl" alt='girl'/></a>
 
                         <a href="#" className="hover:text-indigo-500 text-gray-900 font-semibold">john doe</a>
-                        <p className="text-gray-500 uppercase text-sm">Web Developer</p>
+                        <p className="text-gray-500 uppercase text-sm">Hair Stylist</p>
 
                         <div className="my-4 flex justify-center items-center">
                             <a href="#">
@@ -233,7 +233,7 @@ const OurTeam = () => {
                                          src="https://loremflickr.com/320/320/girl" alt='girl'/></a>
 
                         <a href="#" className="hover:text-indigo-500 text-gray-900 font-semibold">john doe</a>
-                        <p className="text-gray-500 uppercase text-sm">Web Developer</p>
+                        <p className="text-gray-500 uppercase text-sm">Hair Stylist</p>
 
                         <div className="my-4 flex justify-center items-center">
                             <a href="#">
