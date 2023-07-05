@@ -19,8 +19,7 @@ const WhyUs = () => {
                             </h2>
 
                             <div className='pt-0 pb-5 text-gray-700 leading-relaxed'>
-                                Designed to allow you to unwind and feel confident that you’re in good, caring hands. Our first priority is cleanliness. We have a full-time staff whose job is to ensure that the environment at Beautyness remains.
-                            </div>
+                                Escape the everyday stress at Zindi: Indulge in a soothing massage session and embrace pure relaxation in the breathtaking setting of Diani.   </div>
                         </div>
 
                         <div className='pt-8'>

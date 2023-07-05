@@ -18,8 +18,7 @@ const Footer = () => {
 
                                 </Link>
                                 <p className="text-base mb-7 text-body-color">
-                                    Sed ut perspiciatis undmnis is iste natus error sit amet
-                                    voluptatem totam rem aperiam.
+                                    Zindi: A serene massage and salon oasis nestled in the beautiful coastal paradise of Diani.
                                 </p>
                                 <p className="flex items-center text-sm font-medium text-dark">
                   {/*<span className="mr-3 text-primary">*/}

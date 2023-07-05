@@ -7,23 +7,14 @@ const Founder = () => {
                 <div className="grid items-center grid-cols-1 md:grid-cols-2">
 
                     <div>
-                        <h2 className="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">Hey 👋 I am
-                            <br className="block sm:hidden"/>Jenny Carter
+                        <h2 className=" mt-6 text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">Hey 👋 I am
+                            <br className="block sm:hidden"/> Irene
                         </h2>
                         <p className="max-w-lg mt-3 text-xl leading-relaxed text-gray-600 md:mt-8">
-                            Amet minim mollit non deserunt
-                            ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.
-                            Exercitation veniam consequat sunt nostrud amet.
+                            The visionary founder of Zindi Studio Massage and Salon Palour. A trailblazing woman with a passion for holistic wellness and beauty, Irene embarked on a journey to create a haven of relaxation and rejuvenation in the heart of Diani. With her expertise in massage therapy and salon services, she has curated an exquisite menu of treatments designed to cater to the unique needs of her clients. Irene's commitment to excellence and her dedication to creating a serene and welcoming environment have made Zindi Studio a go-to destination for those seeking the perfect blend of indulgence and self-care.
                         </p>
 
-                        <p className="mt-4 text-xl text-gray-600 md:mt-8">
-                    <span className="relative inline-block">
-                        <span className="absolute inline-block w-full bottom-0.5 h-2 bg-yellow-300"></span>
-                    <span className="relative"> Have a question? </span>
-                    </span>
-                            <br className="block sm:hidden"/>Ask me on <a href="#" title=""
-                                                                          className="transition-all duration-200 text-sky-500 hover:text-sky-600 hover:underline">Twitter</a>
-                        </p>
+
                     </div>
 
                     <div className="relative">

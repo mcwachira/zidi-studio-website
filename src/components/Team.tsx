@@ -103,12 +103,12 @@ const Team = () => {
                          Meet Our <span className="text-indigo-600">Team</span>
                      </h3>
                      <p className="mt-4 text-md leading-7 text-gray-500 font-light">
-                         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit
-                         eaque,
-                         iste dolor cupiditate blanditiis ratione.
-                         <br/>Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                         At Zindi, our team of highly skilled beauty experts is dedicated to enhancing your natural beauty and providing you with an unforgettable salon experience in the stunning surroundings of Diani. With a deep passion for their craft and a commitment to staying up-to-date with the latest trends and techniques, our beauty experts are adept at creating personalized looks that perfectly complement your style and personality
                      </p>
 
+                     <p className="mt-4 text-md leading-7 text-gray-500 font-light">
+                         At Zindi, our team of highly skilled beauty experts is dedicated to enhancing your natural beauty and providing you with an unforgettable salon experience in the stunning surroundings of Diani. With a deep passion for their craft and a commitment to staying up-to-date with the latest trends and techniques, our beauty experts are adept at creating personalized looks that perfectly complement your style and personality
+                     </p>
                  </div>
 
              </div>
