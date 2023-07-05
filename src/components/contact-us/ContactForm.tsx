@@ -1,6 +1,14 @@
-import React from 'react'
+import React, {ReactNode} from 'react'
 
-const ContactForm = () => {
+// type    ContactForm ={
+//     cols:Number,
+//     rows:Number
+//
+//
+// }
+
+
+const ContactForm = ()=> {
     return (
         <section className="bg-blue-50 dark:bg-slate-800" id="contact">
             <div className="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 lg:py-20">
@@ -138,7 +146,7 @@ const ContactForm = () => {
                                         <label htmlFor="textarea"
                                                className="pb-1 text-xs uppercase tracking-wider"></label>
                                         <textarea
-                                        id="textarea" name="textarea" cols="30" rows="5"
+                                        id="textarea" name="textarea" cols={30} rows={10}
                                         placeholder="Write your message..."
                                         className="mb-2 w-full rounded-md border border-gray-400 py-2 pl-2 pr-4 shadow-md dark:text-gray-300 sm:mb-0"></textarea>
                                     </div>
