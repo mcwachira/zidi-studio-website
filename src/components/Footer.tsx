@@ -193,7 +193,7 @@ export default Footer;
 
 
 type   Footer ={
-    children:ReactElement,
+    children:ReactNode,
     header:string,
     label:string,
     link:string,
