@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from "next/image";
 
 const Testimonial = () => {
     return (
@@ -21,7 +22,7 @@ const Testimonial = () => {
                         <div
                             className="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white dark:bg-gray-800 dark:border-gray-700 shadow-2xl shadow-gray-600/10 dark:shadow-none">
                             <div className="flex gap-4">
-                                <img className="w-12 h-12 rounded-full"
+                                <Image className="w-12 h-12 rounded-full"
                                      src="https://randomuser.me/api/portraits/women/12.jpg" alt="user avatar"
                                      width="400" height="400" loading="lazy"/>
                                     <div>
@@ -46,7 +47,7 @@ const Testimonial = () => {
                         <div
                             className="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white dark:bg-gray-800 dark:border-gray-700 shadow-2xl shadow-gray-600/10 dark:shadow-none">
                             <div className="flex gap-4">
-                                <img className="w-12 h-12 rounded-full"
+                                <Image className="w-12 h-12 rounded-full"
                                      src="https://randomuser.me/api/portraits/women/14.jpg" alt="user avatar"
                                      width="200" height="200" loading="lazy"/>
                                     <div>
@@ -64,7 +65,7 @@ const Testimonial = () => {
                         <div
                             className="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white dark:bg-gray-800 dark:border-gray-700 shadow-2xl shadow-gray-600/10 dark:shadow-none">
                             <div className="flex gap-4">
-                                <img className="w-12 h-12 rounded-full"
+                                <Image className="w-12 h-12 rounded-full"
                                      src="https://randomuser.me/api/portraits/women/18.jpg" alt="user avatar"
                                      width="200" height="200" loading="lazy"/>
                                     <div>
@@ -85,7 +86,7 @@ const Testimonial = () => {
                         <div
                             className="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white dark:bg-gray-800 dark:border-gray-700 shadow-2xl shadow-gray-600/10 dark:shadow-none">
                             <div className="flex gap-4">
-                                <img className="w-12 h-12 rounded-full"
+                                <Image className="w-12 h-12 rounded-full"
                                      src="https://randomuser.me/api/portraits/women/2.jpg" alt="user avatar" width="200"
                                      height="200" loading="lazy"/>
                                     <div>
@@ -105,7 +106,7 @@ const Testimonial = () => {
                         <div
                             className="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white dark:bg-gray-800 dark:border-gray-700 shadow-2xl shadow-gray-600/10 dark:shadow-none">
                             <div className="flex gap-4">
-                                <img className="w-12 h-12 rounded-full"
+                                <Image className="w-12 h-12 rounded-full"
                                      src="https://randomuser.me/api/portraits/women/62.jpg" alt="user avatar"
                                      width="200" height="200" loading="lazy"/>
                                     <div>
@@ -125,7 +126,7 @@ const Testimonial = () => {
                         <div
                             className="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white dark:bg-gray-800 dark:border-gray-700 shadow-2xl shadow-gray-600/10 dark:shadow-none">
                             <div className="flex gap-4">
-                                <img className="w-12 h-12 rounded-full"
+                                <Image className="w-12 h-12 rounded-full"
                                      src="https://randomuser.me/api/portraits/women/19.jpg" alt="user avatar"
                                      width="400" height="400" loading="lazy"/>
                                     <div>

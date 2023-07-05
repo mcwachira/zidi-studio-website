@@ -5,8 +5,8 @@ const CallToAction = () => {
     return (
 
         <>
-            <div className="relative bg-gray-200 ">
-                <div className="relative pt-24 pd-24 grid  md:grid-cols-1 lg:grid-cols-2 grid-flow-rows gap-y-20 bg-gray-200
+            <div className="relative bg-white ">
+                <div className="relative pt-24 pd-24 grid  md:grid-cols-1 lg:grid-cols-2 grid-flow-rows gap-y-20 bg-white
                  aign-center justify-center  ">
                     <div className="relative mr-auto ml-auto mb-10">
                         <Image
@@ -16,7 +16,7 @@ const CallToAction = () => {
 
                     </div>
 
-                    <div className="pr-16">
+                    <div className="pr-16 ">
                         <div
                             className="text-center ">
                             <div className="text-black pd-1 text-sm tracking-widest uppercase font-semibold">Take Your Care To Next</div>
