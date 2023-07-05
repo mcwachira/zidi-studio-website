@@ -4,6 +4,7 @@ import WhyUs from "@/components/WhyUs";
 import OurServices from "@/components/OurServices";
 import Testimonial from "@/components/Testimonial";
 import BookAppointment from "@/components/BookAppointment";
+import Blog from "@/components/Blog";
 
 
 
@@ -15,6 +16,7 @@ export default function Home() {
   <WhyUs/>
         <OurServices/>
         <Testimonial/>
+        <Blog/>
         <BookAppointment/>
     </main>
   )
