@@ -195,8 +195,7 @@ export default Footer;
 type   Footer ={
     children:ReactNode,
     header:string,
-    label:string,
-    link:string,
+
 
 }
 const LinkGroup = ({ children, header }:Footer) => {
@@ -212,7 +211,12 @@ const LinkGroup = ({ children, header }:Footer) => {
     );
 };
 
-const NavLink = ({ link, label } :Footer) => {
+type NavLinks={
+    label:string,
+        link:string,
+}
+
+const NavLink = ({ link, label } :NavLinks) => {
     return (
         <div>
             <li>
