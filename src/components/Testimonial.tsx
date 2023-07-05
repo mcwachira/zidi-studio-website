@@ -31,7 +31,7 @@ const Testimonial = () => {
                                         <p className="text-sm text-gray-500 dark:text-gray-300">Client</p>
                                     </div>
                             </div>
-                            <p className="mt-8">"I recently discovered Zindi Studio in Diani, and it's now my go-to place for relaxation and self-care. The massage therapists at this massage and salon parlor are incredibly talented. They know exactly how to release tension and melt away stress. The tranquil ambiance and soothing music create the perfect environment for ultimate relaxation. The salon services are equally remarkable, with skilled stylists who deliver impeccable results. Zindi Studio is truly a sanctuary where you can escape the hustle and bustle of everyday life."
+                            <p className="mt-8">&quot;I recently discovered Zindi Studio in Diani, and it&apos;s now my go-to place for relaxation and self-care. The massage therapists at this massage and salon parlor are incredibly talented. They know exactly how to release tension and melt away stress. The tranquil ambiance and soothing music create the perfect environment for ultimate relaxation. The salon services are equally remarkable, with skilled stylists who deliver impeccable results. Zindi Studio is truly a sanctuary where you can escape the hustle and bustle of everyday life.&quot;
                             </p>
                         </div>
 
@@ -47,7 +47,7 @@ const Testimonial = () => {
                                         <p className="text-sm text-gray-500 dark:text-gray-300">Client</p>
                                     </div>
                             </div>
-                            <p className="mt-8"> "I recently discovered Zindi Studio in Diani, and it's now my go-to place for relaxation and self-care. The massage therapists at this massage and salon parlor are incredibly talented. They know exactly how to release tension and melt away stress. The tranquil ambiance and soothing music create the perfect environment for ultimate relaxation. The salon services are equally remarkable, with skilled stylists who deliver impeccable results. Zindi Studio is truly a sanctuary where you can escape the hustle and bustle of everyday life."
+                            <p className="mt-8"> &quot;If you're looking for an extraordinary massage and salon parlor experience in Diani, look no further than Zindi Studio. From the moment you step through the door, you&apos;re enveloped in a sense of tranquility. The skilled massage therapists have a magical touch, relieving all the tension in your body and leaving you in a state of pure bliss. The salon services are equally impressive, with expert stylists who know how to enhance your natural beauty. Zindi Studio offers an exquisite escape from the daily grind.&quot;
                             </p>
                         </div>
 
@@ -64,7 +64,7 @@ const Testimonial = () => {
                                         <p className="text-sm text-gray-500 dark:text-gray-300">Client</p>
                                     </div>
                             </div>
-                            <p className="mt-8">"Zindi Studio in Diani is a hidden gem for anyone seeking a luxurious and revitalizing experience. The moment I entered this massage and salon parlor, I was greeted by friendly staff who made me feel instantly comfortable. The massages are heavenly, providing a perfect blend of relaxation and therapeutic techniques. The salon services are exceptional too, with talented stylists who take the time to understand your desires and create stunning transformations. Zindi Studio is a must-visit if you're in Diani!"
+                            <p className="mt-8">&quot;I had an incredible experience at the massage and salon parlor in Diani, Kenya! The moment I stepped in, I was greeted warmly by the staff. The ambiance was so soothing and relaxing. The massage therapist was highly skilled and attentive to my needs. The massage was heavenly, and I felt rejuvenated afterward. I also tried their salon services, and the hairstylist did an amazing job. I left feeling like a whole new person. I highly recommend this place for a blissful pampering session!&quot;
 
 
                             </p>
@@ -82,7 +82,7 @@ const Testimonial = () => {
                                         <p className="text-sm text-gray-500 dark:text-gray-300">Client</p>
                                     </div>
                             </div>
-                            <p className="mt-8">"Zindi Studio in Diani is a hidden gem for anyone seeking a luxurious and revitalizing experience. The moment I entered this massage and salon parlor, I was greeted by friendly staff who made me feel instantly comfortable. The massages are heavenly, providing a perfect blend of relaxation and therapeutic techniques. The salon services are exceptional too, with talented stylists who take the time to understand your desires and create stunning transformations. Zindi Studio is a must-visit if you're in Diani!"
+                            <p className="mt-8">&quot;Zindi Studio in Diani is a hidden gem for anyone seeking a luxurious and revitalizing experience. The moment I entered this massage and salon parlor, I was greeted by friendly staff who made me feel instantly comfortable. The massages are heavenly, providing a perfect blend of relaxation and therapeutic techniques. The salon services are exceptional too, with talented stylists who take the time to understand your desires and create stunning transformations. Zindi Studio is a must-visit if you&apos;re in Diani!&quot;
 
 
                             </p>
@@ -100,7 +100,7 @@ const Testimonial = () => {
                                         <p className="text-sm text-gray-500 dark:text-gray-300">Client</p>
                                     </div>
                             </div>
-                            <p className="mt-8"> "Zindi Studio in Diani is a true oasis of relaxation and beauty. The massage and salon services offered here are exceptional, surpassing all expectations. The skilled therapists provide a personalized massage experience that targets every muscle group, leaving you feeling completely renewed. The salon staff are talented artists, creating stunning hairstyles and delivering impeccable beauty treatments. The attention to detail and the serene atmosphere make Zindi Studio the perfect place to unwind and indulge in self-care."
+                            <p className="mt-8"> &quot;Zindi Studio in Diani is a true oasis of relaxation and beauty. The massage and salon services offered here are exceptional, surpassing all expectations. The skilled therapists provide a personalized massage experience that targets every muscle group, leaving you feeling completely renewed. The salon staff are talented artists, creating stunning hairstyles and delivering impeccable beauty treatments. The attention to detail and the serene atmosphere make Zindi Studio the perfect place to unwind and indulge in self-care.&quot;
                             </p>
                         </div>
 
@@ -117,7 +117,7 @@ const Testimonial = () => {
                                         <p className="text-sm text-gray-500 dark:text-gray-300">Client</p>
                                     </div>
                             </div>
-                            <p className="mt-8">"I recently visited Zindi Studio in Diani and was blown away by the exceptional service and attention to detail. The massage therapists are incredibly knowledgeable and skilled, providing a therapeutic experience that left me feeling revitalized. The salon services are top-notch, with stylists who have a keen eye for beauty and a passion for their craft. Zindi Studio offers a serene and inviting ambiance, making it the perfect destination for a day of pampering and self-care."
+                            <p className="mt-8">&quot;I recently visited Zindi Studio in Diani and was blown away by the exceptional service and attention to detail. The massage therapists are incredibly knowledgeable and skilled, providing a therapeutic experience that left me feeling revitalized. The salon services are top-notch, with stylists who have a keen eye for beauty and a passion for their craft. Zindi Studio offers a serene and inviting ambiance, making it the perfect destination for a day of pampering and self-care.&quot;
                             </p>
                         </div>
 

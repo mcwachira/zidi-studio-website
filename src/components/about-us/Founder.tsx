@@ -11,7 +11,7 @@ const Founder = () => {
                             <br className="block sm:hidden"/> Irene
                         </h2>
                         <p className="max-w-lg mt-3 text-xl leading-relaxed text-gray-600 md:mt-8">
-                            The visionary founder of Zindi Studio Massage and Salon Palour. A trailblazing woman with a passion for holistic wellness and beauty, Irene embarked on a journey to create a haven of relaxation and rejuvenation in the heart of Diani. With her expertise in massage therapy and salon services, she has curated an exquisite menu of treatments designed to cater to the unique needs of her clients. Irene's commitment to excellence and her dedication to creating a serene and welcoming environment have made Zindi Studio a go-to destination for those seeking the perfect blend of indulgence and self-care.
+                            The visionary founder of Zindi Studio Massage and Salon Palour. A trailblazing woman with a passion for holistic wellness and beauty, Irene embarked on a journey to create a haven of relaxation and rejuvenation in the heart of Diani. With her expertise in massage therapy and salon services, she has curated an exquisite menu of treatments designed to cater to the unique needs of her clients. Irene&apos;s commitment to excellence and her dedication to creating a serene and welcoming environment have made Zindi Studio a go-to destination for those seeking the perfect blend of indulgence and self-care.
                         </p>
 
 
