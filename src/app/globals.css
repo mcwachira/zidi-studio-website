@@ -8,6 +8,10 @@
   --foreground: black;
 }
 
+html{
+@media(prefers-color-scheme: light);
+}
+
 /*[data-theme='dark'] {*/
 /*  --background: black;*/
 /*  --foreground: white;*/
