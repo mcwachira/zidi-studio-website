@@ -47,7 +47,7 @@ const Testimonial = () => {
                                         <p className="text-sm text-gray-500 dark:text-gray-300">Client</p>
                                     </div>
                             </div>
-                            <p className="mt-8"> &quot;If you're looking for an extraordinary massage and salon parlor experience in Diani, look no further than Zindi Studio. From the moment you step through the door, you&apos;re enveloped in a sense of tranquility. The skilled massage therapists have a magical touch, relieving all the tension in your body and leaving you in a state of pure bliss. The salon services are equally impressive, with expert stylists who know how to enhance your natural beauty. Zindi Studio offers an exquisite escape from the daily grind.&quot;
+                            <p className="mt-8"> &quot;If you&apos;re looking for an extraordinary massage and salon parlor experience in Diani, look no further than Zindi Studio. From the moment you step through the door, you&apos;re enveloped in a sense of tranquility. The skilled massage therapists have a magical touch, relieving all the tension in your body and leaving you in a state of pure bliss. The salon services are equally impressive, with expert stylists who know how to enhance your natural beauty. Zindi Studio offers an exquisite escape from the daily grind.&quot;
                             </p>
                         </div>
 
